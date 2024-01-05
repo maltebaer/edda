@@ -1,0 +1,34 @@
+{
+    "title": "Meine Leistungen für Ihre Seele",
+    "intro": "Pariatur et aliqua ad eu ipsum cupidatat eiusmod.",
+    "items": [
+        {
+            "title": "Astrologische Beratung",
+            "url": "/astrologie.html",
+            "cta": "Mehr Erfahren",
+            "question": "Haben Sie sich schon häufiger nach Ihrer Lebensaufgabe gefragt, über unbewusste Muster, Ihre Stärken und Schwächen nachgedacht?",
+            "answer": "Astrologie ist ein unschätzbares Hilfsmittel um Ihr Leben besser zu verstehen und in Zukunft bewusster gestalten zu können."
+        },
+        {
+            "title": "Reinkarnations&shy;therapie",
+            "url": "/reinkarnationstherapie.html",
+            "cta": "Mehr Erfahren",
+            "question": "Sie stehen immer wieder vor neuen Herausforderungen, fragen sich was Krankheiten und Lebenskrisen mit Ihnen selbst zu tun haben?",
+            "answer": "Astrologische Reinkarnationstherapie bringt Licht in die unbewussten Bereiche Ihrer Seele und zeigt Ihnen, dass die Antworten auf Ihre Fragen in Ihnen selbst liegen."
+        },
+        {
+            "title": "Ausbildung -- ART",
+            "url": "/ausbildung-art.html",
+            "cta": "Mehr Erfahren",
+            "question": "Die astrologisch basierte Reinkarnationstherapie -- ART -- verbindet Reinkarnationstherapie mit Inhalten und Deutungslehre der Astrologie (APL nach Peter Hensel). Ein ganzheitliches spirituelles Weltbild ist die Basis von dieser Therapieform.",
+            "answer": "Die Ausbildung geht über zwei Jahre."
+        },
+        {
+            "title": "Intensivwoche -- ART",
+            "url": "/intensivwoche-art.html",
+            "cta": "Mehr Erfahren",
+            "question": "Macht Ihnen ein bestimmtes Thema immer wiederkehrend das Leben schwer? Geht es Ihnen um einen Bewusstseinssprung oder spirituelle Weiterentwicklung?",
+            "answer": "Dann ist ein zusammenhängender Zyklus von 5 Sitzungen ART sinnvoll, um mit Liebe und vollem Fokus Licht in Ihr Schattenthema zu bringen."
+        }
+    ]
+}
